@@ -11,10 +11,10 @@ theme = "after-dark"
   identifier = "home"
   url = "/"
 [[menu.main]]
-  name = "Blog"
+  name = "About"
   weight = 2
-  identifier = "blog"
-  url = "/blog/"
+  identifier = "about"
+  url = "/about"
 
 
 [params]
