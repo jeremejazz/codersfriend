@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Codersfriend</title>
-    <link>https://codersfriend.github.io/</link>
-    <description>Recent content on Codersfriend</description>
+    <title>Blog on Codersfriend</title>
+    <link>https://codersfriend.github.io/tags/blog/</link>
+    <description>Recent content in Blog on Codersfriend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Apr 2018 16:14:48 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Apr 2018 11:48:28 +0800</lastBuildDate>
     
-	<atom:link href="https://codersfriend.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://codersfriend.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://codersfriend.github.io/about/</link>
-      <pubDate>Sun, 22 Apr 2018 16:14:48 +0800</pubDate>
-      
-      <guid>https://codersfriend.github.io/about/</guid>
-      <description>Codersfriend is&amp;hellip; currently under development</description>
-    </item>
     
     <item>
       <title>Introduction</title>
