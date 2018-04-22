@@ -1,0 +1,6 @@
+[submodule "themes/amp"]
+	path = themes/amp
+	url = https://github.com/pdevty/amp.git
+[submodule "themes/after-dark"]
+	path = themes/after-dark
+	url = https://github.com/comfusion/after-dark.git
